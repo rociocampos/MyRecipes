@@ -1,0 +1,47 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    
+ }
+body {
+    background-image: url("/img/body-background.jpg");
+    background-size: cover;
+}
+.navbar-brand h2{
+    color:#f59930;
+    font-family:'Pacifico', cursive;
+}
+.body-card{
+    background-color: white;
+}
+
+#card-home{
+    margin-top: 150px;
+
+}
+#input-description{
+    height: 150px;
+}
+.fa-pencil{
+    color: black;
+  }
+  .fa-pencil:hover{
+    color:#f59930;
+  }
+
+#container-recipes{
+    background-color: rgba(255, 255, 255, 0.9);
+}
+.form-signin {
+    background-color: white;
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+.recipeimg{
+    height: 10em;
+    margin-bottom: 10px;
+}
+#unique-card{
+    margin: 10px;
+}
